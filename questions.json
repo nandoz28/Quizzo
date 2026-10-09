@@ -1,0 +1,1402 @@
+
+[
+  {
+    "id": 101,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "What is the approximate percentage of carbon dioxide in the overall composition of greenhouse gases?",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "80%",
+      "D": "95%"
+    },
+    "answer": "C",
+    "explanation": "Carbon dioxide is the largest contributor to human-caused greenhouse gas emissions, although its exact share depends on the dataset and how emissions are measured."
+  },
+  {
+    "id": 102,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "How much more potent is Methane in its global warming potential (GWP) compared to Carbon Dioxide?",
+    "options": {
+      "A": "5 times",
+      "B": "10 times",
+      "C": "21 times",
+      "D": "50 times"
+    },
+    "answer": "C",
+    "explanation": "The value 21 is a historically used estimate for methane's 100-year global warming potential. Modern estimates are higher and depend on the assessment and time horizon."
+  },
+  {
+    "id": 103,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "The greenhouse effect is essential to life as it raises the planet's average temperature from minus 18°C to:",
+    "options": {
+      "A": "0°C",
+      "B": "+5°C",
+      "C": "+10°C",
+      "D": "+15°C"
+    },
+    "answer": "D",
+    "explanation": "The natural greenhouse effect keeps Earth's average surface temperature near 15°C rather than approximately −18°C."
+  },
+  {
+    "id": 104,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "Which architectural approach focuses on minimizing reliance on artificial heating and cooling through sustainable design?",
+    "options": {
+      "A": "Post-modern design",
+      "B": "Bioclimatic design",
+      "C": "Industrial design",
+      "D": "Brutalist design"
+    },
+    "answer": "B",
+    "explanation": "Bioclimatic design uses local climate, building orientation, shading, ventilation, and other passive strategies to improve comfort and reduce energy use."
+  },
+  {
+    "id": 105,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "In bioclimatic design, which side of a building typically receives the highest radiation in a tropical context?",
+    "options": {
+      "A": "North",
+      "B": "South",
+      "C": "East",
+      "D": "West"
+    },
+    "answer": "D",
+    "explanation": "In many tropical locations, west-facing walls receive intense afternoon solar radiation. The exact exposure depends on latitude, season, and surrounding structures."
+  },
+  {
+    "id": 106,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "Which of the following is a major green building certification specifically being followed in India?",
+    "options": {
+      "A": "BREEAM",
+      "B": "GRIHA",
+      "C": "CASBEE",
+      "D": "DGNB"
+    },
+    "answer": "B",
+    "explanation": "GRIHA stands for Green Rating for Integrated Habitat Assessment and is an Indian green building rating system."
+  },
+  {
+    "id": 107,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "What is the specific name for the Energy Conservation Building Code (ECBC) for residential buildings in India?",
+    "options": {
+      "A": "Eco-Nivas Samhita",
+      "B": "Shunya Awas",
+      "C": "Griha Jyoti",
+      "D": "Nivas Shakti"
+    },
+    "answer": "A",
+    "explanation": "Eco-Niwas Samhita is India's energy conservation code for residential buildings."
+  },
+  {
+    "id": 108,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "Which mission under the NAPCC specifically focuses on the built environment and urban areas?",
+    "options": {
+      "A": "National Solar Mission",
+      "B": "National Water Mission",
+      "C": "National Mission for a Green India",
+      "D": "National Mission on Sustainable Habitat (NMSH)"
+    },
+    "answer": "D",
+    "explanation": "The National Mission on Sustainable Habitat addresses sustainability in buildings, urban planning, transport, and waste management."
+  },
+  {
+    "id": 109,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "By which year has India committed to becoming a carbon-neutral country?",
+    "options": {
+      "A": "2030",
+      "B": "2047",
+      "C": "2050",
+      "D": "2070"
+    },
+    "answer": "D",
+    "explanation": "India announced its target of achieving net-zero emissions by 2070."
+  },
+  {
+    "id": 110,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 1,
+    "question": "According to 2020 data, which sector is the largest contributor to CO2 emissions in India, accounting for 51.3%?",
+    "options": {
+      "A": "Road transport",
+      "B": "Iron and steel manufacturing",
+      "C": "Electricity and heat producers",
+      "D": "Residential sector"
+    },
+    "answer": "C",
+    "explanation": "Electricity and heat production are major sources of CO2 emissions because of fossil fuel combustion. The stated 51.3% figure depends on the specific dataset and sector definitions."
+  },
+  {
+    "id": 201,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "India has committed to becoming carbon-neutral by which year?",
+    "options": {
+      "A": "2030",
+      "B": "2050",
+      "C": "2070",
+      "D": "2100"
+    },
+    "answer": "C",
+    "explanation": "India has announced its target of achieving net-zero emissions by 2070."
+  },
+  {
+    "id": 202,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "Which of the following is NOT mentioned as one of the key transitions in India's low-carbon development pathways?",
+    "options": {
+      "A": "Low-carbon development of the electricity system",
+      "B": "Integrated, efficient, and low-carbon transport",
+      "C": "Rapid expansion of coal-based power plants",
+      "D": "Promotion of adaptation and resilience in various domains"
+    },
+    "answer": "C",
+    "explanation": "Rapid expansion of coal-based power plants conflicts with the transition toward a low-carbon electricity system."
+  },
+  {
+    "id": 203,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "What role do architects and civil engineers have in India's carbon neutrality journey?",
+    "options": {
+      "A": "Only documenting emissions",
+      "B": "Translating low-emission strategies into architectural and construction dimensions",
+      "C": "Solely focusing on industrial finance",
+      "D": "Regulating international trade policies"
+    },
+    "answer": "B",
+    "explanation": "Architects and civil engineers can reduce building-related emissions through design, material selection, construction methods, and energy-efficient buildings."
+  },
+  {
+    "id": 204,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "How does the World Green Building Council define embodied carbon?",
+    "options": {
+      "A": "Carbon emitted only during the use of a building",
+      "B": "GHG emissions of materials and construction processes throughout the whole life cycle",
+      "C": "The carbon captured by trees around a building",
+      "D": "The electricity consumed by appliances inside a building"
+    },
+    "answer": "B",
+    "explanation": "Embodied carbon refers to greenhouse gas emissions associated with building materials and construction processes across relevant life-cycle stages."
+  },
+  {
+    "id": 205,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "What is the reference gas for Global Warming Potential (GWP), which has a value of 1?",
+    "options": {
+      "A": "Methane",
+      "B": "Carbon dioxide (CO2)",
+      "C": "Nitrous oxide",
+      "D": "Water vapor"
+    },
+    "answer": "B",
+    "explanation": "Carbon dioxide is the reference gas for Global Warming Potential and is assigned a value of 1 over the selected time horizon."
+  },
+  {
+    "id": 206,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "Which of the following is considered a stage of embodied carbon?",
+    "options": {
+      "A": "Product stage (raw material supply, transport, and manufacture)",
+      "B": "Cooking stage in a residential kitchen",
+      "C": "Television viewing hours",
+      "D": "Occupant commuting time"
+    },
+    "answer": "A",
+    "explanation": "The product stage includes raw material extraction and processing, transport, and manufacturing of construction products."
+  },
+  {
+    "id": 207,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "The built environment is responsible for approximately what percentage of annual global carbon dioxide emissions?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "40%",
+      "D": "60%"
+    },
+    "answer": "C",
+    "explanation": "The built environment is commonly associated with roughly 40% of global energy-related carbon emissions when building operations and construction are considered. The exact figure depends on the scope and reporting year."
+  },
+  {
+    "id": 208,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "'Operational carbon' in a building refers to emissions from:",
+    "options": {
+      "A": "Lighting, heating, cooling, and general power usage during the building's lifetime",
+      "B": "The mining of raw materials for construction",
+      "C": "The demolition of the building at the end of its life",
+      "D": "The transport of materials to the construction site"
+    },
+    "answer": "A",
+    "explanation": "Operational carbon comes from energy consumed while a building is in use, including heating, cooling, lighting, and equipment."
+  },
+  {
+    "id": 209,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "What does 'Initial Embodied Energy' include?",
+    "options": {
+      "A": "Energy for building maintenance only",
+      "B": "Energy to produce the building, from raw material extraction to final assembly on site",
+      "C": "Energy used for heating the building in its first year",
+      "D": "Energy recycled from demolished parts"
+    },
+    "answer": "B",
+    "explanation": "Initial embodied energy generally includes the energy used to extract, process, manufacture, and transport materials and construct the building."
+  },
+  {
+    "id": 210,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 2,
+    "question": "To reduce embodied carbon in concrete, what strategy could work amongst these?",
+    "options": {
+      "A": "Using more Portland cement for higher strength",
+      "B": "Replacing Portland cement with materials like fly ash or slag",
+      "C": "Reducing the curing time to 7 days",
+      "D": "Using only steel-based alternatives for all structural parts"
+    },
+    "answer": "B",
+    "explanation": "Replacing a portion of Portland cement with suitable supplementary cementitious materials, such as fly ash or slag, can reduce concrete's embodied carbon."
+  },
+  {
+    "id": 301,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "What is the primary goal of India's National Hydrogen Mission launched in 2021?",
+    "options": {
+      "A": "To become a net importer of crude oil",
+      "B": "To become a global exporter of green hydrogen",
+      "C": "To eliminate the use of hydrogen in industries",
+      "D": "To increase carbon dioxide emissions"
+    },
+    "answer": "B",
+    "explanation": "India's National Green Hydrogen Mission aims to promote green hydrogen production, use, and exports, supporting decarbonization and energy independence."
+  },
+  {
+    "id": 302,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "The 2015 Paris Agreement aims to limit global warming to how many degrees Celsius above pre-industrial levels?",
+    "options": {
+      "A": "1.5 degrees",
+      "B": "2.0 degrees",
+      "C": "3.0 degrees",
+      "D": "5.0 degrees"
+    },
+    "answer": "B",
+    "explanation": "The Paris Agreement aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C. The screenshot marks 2.0 degrees as the accepted answer."
+  },
+  {
+    "id": 303,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "Which type of energy can be easily measured using a common meter or thumb rules for appliances?",
+    "options": {
+      "A": "Embodied energy",
+      "B": "Operational energy",
+      "C": "Latent energy",
+      "D": "Solar energy"
+    },
+    "answer": "B",
+    "explanation": "Operational energy is the energy consumed when appliances and building systems operate. It can be estimated or measured using electricity meters and appliance power ratings."
+  },
+  {
+    "id": 304,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "Establishing what is considered essential by the government to mandate reliable product-level carbon data?",
+    "options": {
+      "A": "A national database and reporting platform",
+      "B": "A private energy company",
+      "C": "A new tax system",
+      "D": "An international shipping lane"
+    },
+    "answer": "A",
+    "explanation": "A national database and reporting platform can support consistent collection and reporting of product-level carbon data."
+  },
+  {
+    "id": 305,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "In the context of assessment boundaries, what does 'cradle to gate' typically refer to?",
+    "options": {
+      "A": "From raw material extraction to the building's demolition",
+      "B": "From raw material extraction to the factory exit",
+      "C": "From the building site to the recycling center",
+      "D": "Only the transportation energy"
+    },
+    "answer": "B",
+    "explanation": "Cradle-to-gate assessment covers a product's life cycle from raw material extraction through manufacturing until it leaves the factory gate."
+  },
+  {
+    "id": 306,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "What constitutes 'operational energy' in a building?",
+    "options": {
+      "A": "Energy used to manufacture bricks",
+      "B": "Energy used to transport steel to the site",
+      "C": "Energy used to run appliances like lights, HVAC, and cooking during use",
+      "D": "Energy used during the demolition of the building"
+    },
+    "answer": "C",
+    "explanation": "Operational energy is used by building systems and appliances during occupancy, including lighting, heating, ventilation, air conditioning, and cooking."
+  },
+  {
+    "id": 307,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "By 2050, which appliance is projected to contribute significantly more to operational carbon in both urban and rural India?",
+    "options": {
+      "A": "Dishwashers",
+      "B": "Air conditioners",
+      "C": "Electric kettles",
+      "D": "Vacuum cleaners"
+    },
+    "answer": "B",
+    "explanation": "Growing cooling demand and increased air-conditioner adoption can substantially increase building electricity consumption and operational emissions."
+  },
+  {
+    "id": 308,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "Which of these is a strategy mentioned to reduce operational energy?",
+    "options": {
+      "A": "Using high embodied carbon materials",
+      "B": "Smart lighting solutions and building envelope improvements",
+      "C": "Increasing the use of manual labor for construction",
+      "D": "Reducing the building's lifespan"
+    },
+    "answer": "B",
+    "explanation": "Efficient lighting, insulation, shading, and improved building envelopes can reduce energy demand during building operation."
+  },
+  {
+    "id": 309,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "Operational emissions include activities associated with the building during which phase?",
+    "options": {
+      "A": "Only during the design phase",
+      "B": "Only during the construction phase",
+      "C": "Throughout the building's useful lifetime",
+      "D": "Only during the demolition phase"
+    },
+    "answer": "C",
+    "explanation": "Operational emissions arise from energy and other operational activities throughout the building's useful life."
+  },
+  {
+    "id": 310,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 3,
+    "question": "What is the benefit of 'Building Management Systems' (BMS) as mentioned in the strategies?",
+    "options": {
+      "A": "To increase the cost of the building",
+      "B": "To make the building more energy-efficient",
+      "C": "To increase embodied carbon",
+      "D": "To track the number of bricks used"
+    },
+    "answer": "B",
+    "explanation": "A Building Management System monitors and controls building services such as HVAC and lighting, helping optimize energy use."
+  },
+{
+  "id": 401,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "In the context of building orientation, which direction's sunlight is particularly harsh and intense, leading to significant heat gain in summer in tropics?",
+  "options": {"A": "North", "B": "South", "C": "East", "D": "West"},
+  "answer": "D",
+  "explanation": "West-facing surfaces receive intense afternoon sunlight, often increasing heat gain in tropical climates."
+},
+{
+  "id": 402,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "What does the acronym BEE stand for in India's energy efficiency framework?",
+  "options": {"A": "Building Energy Efficiency", "B": "Bureau of Energy Efficiency", "C": "Board of Environmental Engineering", "D": "Bureau of Electrical Equipment"},
+  "answer": "B",
+  "explanation": "The Bureau of Energy Efficiency promotes energy efficiency and conservation in India."
+},
+{
+  "id": 403,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "Under what circumstances is carbon offsetting required for a project to be verified as 'net zero carbon' in building operations?",
+  "options": {"A": "Whenever a building is made of concrete", "B": "When the building draws energy from the grid and cannot generate all its own energy", "C": "Only if the building is located in an urban area", "D": "If the building has more than 10 floors"},
+  "answer": "B",
+  "explanation": "Under relevant net-zero operational carbon frameworks, eligible residual operational emissions may need to be addressed with credible carbon offsets after reduction measures."
+},
+{
+  "id": 404,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "Which type of carbon offsets should be prioritized?",
+  "options": {"A": "Any available cheap offset", "B": "Offsets with no environmental oversight", "C": "Alignment with Sustainable Development Goals (SDGs)", "D": "Offsets that only focus on air travel"},
+  "answer": "C",
+  "explanation": "Offsets aligned with the Sustainable Development Goals can deliver climate benefits alongside broader environmental and social benefits."
+},
+{
+  "id": 405,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "For credibility, carbon offset projects must undergo rigorous verification for which of the following?",
+  "options": {"A": "Cost only", "B": "Uniqueness, additionality, and permanence", "C": "Number of employees", "D": "Color of the facility"},
+  "answer": "B",
+  "explanation": "Credible offsets should represent additional emissions reductions, avoid double counting, and ensure that the benefits are durable."
+},
+{
+  "id": 406,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "What is the primary focus of 'passive design' in building architecture?",
+  "options": {"A": "Maximizing use of mechanical HVAC systems", "B": "Maximizing use of sun and wind for heating, cooling, and ventilation", "C": "Using the most expensive high-tech materials available", "D": "Relying solely on the electrical grid for all needs"},
+  "answer": "B",
+  "explanation": "Passive design uses orientation, shading, natural ventilation, and solar heat to improve comfort while reducing mechanical energy demand."
+},
+{
+  "id": 407,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "Passive design measures are characterized by which of the following?",
+  "options": {"A": "Being heavily grid dependent", "B": "Being 'devoid of being connected' to the grid", "C": "Requiring constant manual operation", "D": "Increasing the carbon footprint of the building"},
+  "answer": "B",
+  "explanation": "Passive design reduces dependence on active mechanical systems and external energy supplies. The exact wording of the option is retained from the screenshot."
+},
+{
+  "id": 408,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "Building orientation in passive design is directly related to which other factor?",
+  "options": {"A": "Number of parking spots", "B": "Plan form", "C": "Type of furniture used", "D": "Color of the interior walls"},
+  "answer": "B",
+  "explanation": "Building orientation and plan form work together to influence solar exposure, daylight, and natural ventilation."
+},
+{
+  "id": 409,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "What is considered the essential first step in assessing a building's current energy performance to identify areas for improvement?",
+  "options": {"A": "Installing solar panels", "B": "Hiring a new electrician", "C": "Conducting an energy audit", "D": "Painting the roof white"},
+  "answer": "C",
+  "explanation": "An energy audit evaluates current energy consumption and identifies opportunities for efficiency improvements."
+},
+{
+  "id": 410,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 4,
+  "question": "Which regulatory code in India sets minimum energy performance standards specifically for commercial buildings?",
+  "options": {"A": "GRIHA", "B": "LEED", "C": "ECBC", "D": "IGBC"},
+  "answer": "C",
+  "explanation": "The Energy Conservation Building Code (ECBC) establishes energy performance requirements for covered commercial buildings in India."
+},
+
+{
+  "id": 501,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "In a climate like Gandhinagar, which surface receives the highest intensity of solar radiation and thus requires protection through shading or 'cool roofs'?",
+  "options": {"A": "North facade", "B": "East facade", "C": "Horizontal surface (Roof)", "D": "South facade"},
+  "answer": "C",
+  "explanation": "Horizontal roof surfaces can receive intense solar radiation, making roof shading and cool-roof strategies useful for reducing heat gain."
+},
+{
+  "id": 502,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "What is an effective strategy to insulate the east and west facades from high radiation?",
+  "options": {"A": "Increasing the window-to-wall ratio", "B": "Using vegetation or screen walls", "C": "Painting the walls a dark color", "D": "Removing all shading devices"},
+  "answer": "B",
+  "explanation": "Vegetation and external screens can shade facades and reduce direct solar heat gain."
+},
+{
+  "id": 503,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "Why do north-facing walls and windows receive more solar radiation in winter than in summer, according to the specific context provided in the lecture?",
+  "options": {"A": "Because the sun is higher in the sky", "B": "Because the sun is lower in the sky", "C": "Because the Earth is closer to the sun", "D": "Because of the reflective nature of the terrain"},
+  "answer": "B",
+  "explanation": "The lower winter sun angle can change which facades receive direct sunlight. The exact exposure depends on latitude and local solar geometry."
+},
+{
+  "id": 504,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "What is a primary design criteria for building form and orientation in a hot dry climate?",
+  "options": {"A": "Dispersed and thin designs", "B": "Compact and massive design with inward-facing buildings", "C": "Large glass facades", "D": "Extensive outward-facing balconies"},
+  "answer": "B",
+  "explanation": "Compact forms and thermal mass can reduce exposed surface area and help moderate temperature swings in hot, dry climates."
+},
+{
+  "id": 505,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "What is the benefit of grouping buildings close together with narrow streets in hot dry regions?",
+  "options": {"A": "Increased wind speed", "B": "Mutual shading", "C": "Better views for inhabitants", "D": "Easier access for vehicles"},
+  "answer": "B",
+  "explanation": "Closely spaced buildings and narrow streets can provide mutual shading and reduce direct solar exposure."
+},
+{
+  "id": 506,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "In a warm humid climate, what is the most critical planning requirement for occupant comfort?",
+  "options": {"A": "Massive walls for heat storage", "B": "Small, high-level windows only", "C": "Insulation from the western sun and provision for cross ventilation", "D": "Compact planning to prevent breeze movement"},
+  "answer": "C",
+  "explanation": "Solar shading and cross ventilation help limit heat gain and support air movement in warm, humid conditions."
+},
+{
+  "id": 507,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "What is the core principle of bioclimatic architecture?",
+  "options": {"A": "Using high-tech mechanical HVAC systems", "B": "Utilizing natural conditions like climate to regulate temperature", "C": "Ignoring neighboring structures during design", "D": "Relying solely on artificial lighting"},
+  "answer": "B",
+  "explanation": "Bioclimatic architecture adapts design to local climate to improve comfort and reduce energy demand."
+},
+{
+  "id": 508,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "Within the construction industry, what is identified as a notable contributor to carbon dioxide emissions?",
+  "options": {"A": "On-site landscaping", "B": "Raw material production", "C": "Architectural drafting", "D": "Interior decoration"},
+  "answer": "B",
+  "explanation": "Producing construction materials can generate substantial emissions through extraction, processing, and manufacturing."
+},
+{
+  "id": 509,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "In the 'ideal case' in a hot-humid climate, where should windows and doors be located for good air distribution?",
+  "options": {"A": "All windows on one wall", "B": "Windows on two external walls with the door on one internal wall", "C": "No windows, only doors", "D": "Windows only at the ceiling level"},
+  "answer": "B",
+  "explanation": "Openings arranged across different sides of a building can help establish cross ventilation and distribute airflow."
+},
+{
+  "id": 510,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 5,
+  "question": "According to the planning thumb rules, which climate does NOT benefit from compact planning?",
+  "options": {"A": "Hot dry climate", "B": "Cold climate", "C": "Warm humid or hot humid climate", "D": "Composite climate"},
+  "answer": "C",
+  "explanation": "Warm humid climates generally benefit from layouts that promote airflow rather than forms that restrict breezes."
+},
+
+{
+  "id": 601,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "What is the primary benefit of integrating urban greenery like parks and lots into spatial planning?",
+  "options": {"A": "Increasing building height", "B": "Natural cooling and improved outdoor thermal comfort", "C": "Reducing the number of nearby buildings", "D": "Eliminating the need for building materials"},
+  "answer": "B",
+  "explanation": "Urban greenery provides shade and evapotranspiration, helping cool outdoor spaces and improve thermal comfort."
+},
+{
+  "id": 602,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "How do green roofs and walls specifically mitigate the 'Urban Heat Island' effect?",
+  "options": {"A": "By increasing transportation needs", "B": "By reflecting wind away from the city", "C": "By improving insulation and reducing heat radiation", "D": "By replacing the need for electrical grids"},
+  "answer": "C",
+  "explanation": "Green roofs and walls can shade surfaces, reduce heat absorption, and provide insulation and evaporative cooling."
+},
+{
+  "id": 603,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "Why is it important for architects to avoid looking at buildings in an 'isolated manner'?",
+  "options": {"A": "Because isolated buildings are cheaper to build", "B": "Because adjacent buildings influence air movement and microclimates", "C": "Because city laws prohibit isolated structures", "D": "Because greenery cannot grow near single buildings"},
+  "answer": "B",
+  "explanation": "Nearby buildings affect shading, wind flow, and local microclimates, so design should consider the surrounding urban context."
+},
+{
+  "id": 604,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "Which predominant factor has shaped the unique vernacular architecture of Jaisalmer, Rajasthan?",
+  "options": {"A": "Proximity to the ocean", "B": "Desert climate", "C": "High annual rainfall", "D": "Extremely cold winters"},
+  "answer": "B",
+  "explanation": "Jaisalmer's desert climate has influenced traditional building forms, materials, shading, and compact urban layouts."
+},
+{
+  "id": 605,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "In a hot and arid climate like Jaisalmer, what type of planning is considered most appropriate?",
+  "options": {"A": "Compact planning with narrow streets", "B": "Free and open planning with wide streets", "C": "Dispersed suburban layouts", "D": "High-rise glass towers"},
+  "answer": "A",
+  "explanation": "Compact layouts and narrow streets can create shade and reduce direct solar exposure in hot, arid environments."
+},
+{
+  "id": 606,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "What type of planning is recommended for a hot and humid climate?",
+  "options": {"A": "Bulkier buildings with minimal openings", "B": "Free and open plans that facilitate ventilation", "C": "Narrow, wind-blocked streets", "D": "Subterranean construction"},
+  "answer": "B",
+  "explanation": "Open planning helps encourage airflow and cross ventilation, which are important in hot, humid climates."
+},
+{
+  "id": 607,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "In warm climates, where should inlets and outlets ideally be placed?",
+  "options": {"A": "Both at the very top of the wall", "B": "Inlets low in the room and outlets high in the room", "C": "Both at floor level", "D": "Inlets on the roof and outlets on the floor"},
+  "answer": "B",
+  "explanation": "Low-level inlets and high-level outlets can support natural ventilation and buoyancy-driven removal of warm air."
+},
+{
+  "id": 608,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "The 'Solar Chimney' principle facilitates ventilation because:",
+  "options": {"A": "Cool air is lighter and rises", "B": "Warm air is light and rises", "C": "Glass prevents any air movement", "D": "Smoke must be released from the building at all times"},
+  "answer": "B",
+  "explanation": "Air heated in a solar chimney becomes less dense and rises, drawing replacement air through the building."
+},
+{
+  "id": 609,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "According to Bernoulli's principle and the properties of air at height, air at upper levels:",
+  "options": {"A": "Is heavier and has higher pressure", "B": "Moves at a higher speed and has less pressure, sucking air from below", "C": "Is always cooler than air at ground level", "D": "Does not move at all"},
+  "answer": "B",
+  "explanation": "Wind-driven ventilation can create pressure differences that move air through a building. Actual airflow depends on wind conditions, geometry, and temperature differences."
+},
+{
+  "id": 610,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 6,
+  "question": "Which architectural elements can be used to encourage vertical air movement using the stack principle?",
+  "options": {"A": "Clerestory openings, stairwells, and atriums", "B": "Sealed basements and crawl spaces", "C": "Low-hanging false ceilings", "D": "Heavy, solid internal partitions"},
+  "answer": "A",
+  "explanation": "Atriums, stairwells, and high-level openings can provide pathways for warm air to rise and escape through stack ventilation."
+},
+
+{
+  "id": 701,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "Which metric is defined as the total openable window area divided by the total carpet area?",
+  "options": {
+    "A": "Window to Wall Ratio (WWR)",
+    "B": "Window Floor Ratio (WFR)",
+    "C": "Daylight Factor",
+    "D": "Solar Aperture Ratio"
+  },
+  "answer": "B",
+  "explanation": "The screenshot identifies Window Floor Ratio (WFR) as the accepted answer. It describes a ratio between window area and floor area."
+},
+{
+  "id": 702,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "What is a primary benefit of integrating natural daylight into an occupied space?",
+  "options": {
+    "A": "Increased dependence on artificial lighting",
+    "B": "Improved energy saving potential",
+    "C": "Guaranteed elimination of indoor heat gain",
+    "D": "Higher building construction costs"
+  },
+  "answer": "B",
+  "explanation": "Natural daylight can reduce the need for artificial lighting and its associated electricity consumption."
+},
+{
+  "id": 703,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "Landscaping in architecture provides functional benefits beyond aesthetics, such as acting as:",
+  "options": {
+    "A": "Structural support for roofs",
+    "B": "Seasonal shading devices and light filters",
+    "C": "Replacements for building envelopes",
+    "D": "Sources of embodied carbon"
+  },
+  "answer": "B",
+  "explanation": "Trees and other vegetation can provide shade, filter sunlight, and reduce solar heat gain."
+},
+{
+  "id": 704,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "What is a key functional advantage of using deciduous plants in building design?",
+  "options": {
+    "A": "They provide identical shading in both summer and winter",
+    "B": "They offer effective seasonal shading",
+    "C": "They increase noise and dust levels around the building",
+    "D": "They permanently block all natural ventilation"
+  },
+  "answer": "B",
+  "explanation": "Deciduous plants provide shade during warmer months and allow more sunlight through after losing their leaves."
+},
+{
+  "id": 705,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "How do water bodies adjacent to a building contribute to a cooler indoor environment?",
+  "options": {
+    "A": "Through evaporative cooling as warm air passes over the water",
+    "B": "By reflecting 100% of solar radiation away from the site",
+    "C": "By acting as a heat storage mass for nighttime warming",
+    "D": "By reducing the oxygen levels in the surrounding air"
+  },
+  "answer": "A",
+  "explanation": "Evaporation absorbs heat and can cool the surrounding air under suitable climatic conditions."
+},
+{
+  "id": 706,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "Sustainable traditional practices in Indian architecture often utilize which element for cooling?",
+  "options": {
+    "A": "Large sealed glass windows",
+    "B": "Water bodies with fountains",
+    "C": "High-density concrete walls",
+    "D": "Industrial air filtration systems"
+  },
+  "answer": "B",
+  "explanation": "Water bodies and fountains can provide evaporative cooling and improve the microclimate."
+},
+{
+  "id": 707,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "To pre-cool ventilation air effectively, where should pools or water features ideally be placed?",
+  "options": {
+    "A": "In the building's underground parking",
+    "B": "Near windows or in courtyards",
+    "C": "On the building's northern roof",
+    "D": "In non-habitable service zones"
+  },
+  "answer": "B",
+  "explanation": "Water features near courtyards or incoming-air openings may help cool air through evaporation before it enters occupied spaces."
+},
+{
+  "id": 708,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "Water bodies act as effective climate modifiers primarily by:",
+  "options": {
+    "A": "Increasing the wind speed directly",
+    "B": "Passing on humidity to the air through evaporation",
+    "C": "Eliminating the need for cross ventilation",
+    "D": "Reflecting light into dark basements"
+  },
+  "answer": "B",
+  "explanation": "Evaporation adds moisture to the air and can lower its temperature, particularly in suitable dry climates."
+},
+{
+  "id": 709,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "To maximize the reduction of embodied carbon, at what stage should emission strategies be implemented?",
+  "options": {
+    "A": "During the building's demolition phase",
+    "B": "Only during post-occupancy maintenance",
+    "C": "At the early planning and design stage",
+    "D": "After all materials have been purchased"
+  },
+  "answer": "C",
+  "explanation": "Early design decisions influence building form, material quantities, structural systems, and the resulting embodied carbon."
+},
+{
+  "id": 710,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 7,
+  "question": "What is a major environmental benefit of choosing local building materials?",
+  "options": {
+    "A": "It guarantees the lowest material cost",
+    "B": "It lowers embodied emissions",
+    "C": "It eliminates the need for on-site labor",
+    "D": "It makes the building immune to climate change"
+  },
+  "answer": "B",
+  "explanation": "Locally sourced materials may reduce transport-related emissions, although their total environmental impact also depends on production and processing."
+},
+
+{
+  "id": 801,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Which type of building is most likely to result in the highest embodied carbon emissions according to the comparison of structural systems?",
+  "options": {
+    "A": "Timber-based building",
+    "B": "Hybrid steel and timber building",
+    "C": "Cement-based building",
+    "D": "Earth-based building"
+  },
+  "answer": "C",
+  "explanation": "Cement-intensive construction can have high embodied emissions because cement production releases carbon dioxide."
+},
+{
+  "id": 802,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "At what point in the design process is it most critical to make decisions about building materials to 'catch it young' and ensure low embodied carbon?",
+  "options": {
+    "A": "Early design stage",
+    "B": "Post-occupancy stage",
+    "C": "Demolition stage",
+    "D": "Maintenance stage"
+  },
+  "answer": "A",
+  "explanation": "Material and structural choices made early in design can prevent emissions that are difficult to reduce later."
+},
+{
+  "id": 803,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "What is the primary role of the architect when advising a client to reduce a building's carbon footprint?",
+  "options": {
+    "A": "Suggesting the most expensive materials available",
+    "B": "Advising on the necessity, scale, and potential for retrofitting",
+    "C": "Ignoring the existing structure to build something entirely new",
+    "D": "Focusing only on the aesthetic color palette of the facade"
+  },
+  "answer": "B",
+  "explanation": "Retrofitting and reusing existing structures can avoid emissions associated with demolition and new construction."
+},
+{
+  "id": 804,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Which strategy involves looking at the building as a complete system rather than individual components for carbon savings?",
+  "options": {
+    "A": "One-for-one material substitution",
+    "B": "Whole building design",
+    "C": "Interior decoration planning",
+    "D": "Landscaping design"
+  },
+  "answer": "B",
+  "explanation": "Whole building design considers interactions among the structure, envelope, systems, materials, and operation."
+},
+{
+  "id": 805,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "What is the suggested unit for tracking and quantifying the benefit of material carbon reductions?",
+  "options": {
+    "A": "Liters of water per occupant",
+    "B": "Kilograms of CO2 equivalent per square foot",
+    "C": "Total number of bricks used",
+    "D": "Hours of labor per floor"
+  },
+  "answer": "B",
+  "explanation": "Carbon intensity can be expressed as kilograms of carbon dioxide equivalent per unit of floor area."
+},
+{
+  "id": 806,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Why is specifying carpet tiles recommended over broadloom or sheet carpets?",
+  "options": {
+    "A": "To reduce installation waste and allow for easier maintenance and repair",
+    "B": "Because carpet tiles are always more expensive",
+    "C": "Because broadloom carpets cannot be manufactured anymore",
+    "D": "To increase the amount of glue required for the floor"
+  },
+  "answer": "A",
+  "explanation": "Individual carpet tiles can be replaced selectively, reducing waste when only a small area is damaged."
+},
+{
+  "id": 807,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Implementing whole building design strategies can potentially reduce embodied carbon by up to:",
+  "options": {
+    "A": "10%",
+    "B": "25%",
+    "C": "50%",
+    "D": "90%"
+  },
+  "answer": "C",
+  "explanation": "The screenshot identifies 50% as the accepted answer. Actual savings vary with the building, baseline design, and strategies used."
+},
+{
+  "id": 808,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Which of the following is considered an important performance quality when substituting insulation materials?",
+  "options": {
+    "A": "The color of the insulation",
+    "B": "R-value, fire resistance, and pest repellency",
+    "C": "The weight of the shipping container",
+    "D": "The name of the manufacturer"
+  },
+  "answer": "B",
+  "explanation": "Insulation should be evaluated for thermal resistance, fire safety, durability, and resistance to pests where relevant."
+},
+{
+  "id": 809,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "Prior to 4000 BC, materials like soil, stone, and unprocessed timber were used, which are today classified as:",
+  "options": {
+    "A": "Low energy materials",
+    "B": "High energy materials",
+    "C": "Synthetic materials",
+    "D": "Industrial pollutants"
+  },
+  "answer": "A",
+  "explanation": "Minimally processed natural materials generally require less manufacturing energy than highly processed industrial materials."
+},
+{
+  "id": 810,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 8,
+  "question": "What happens to renewable and natural materials at the end of their life if disposed of?",
+  "options": {
+    "A": "They must be buried in toxic waste sites",
+    "B": "They decay and get absorbed back into the Earth",
+    "C": "They turn into ozone-depleting gases",
+    "D": "They remain unchanged for thousands of years"
+  },
+  "answer": "B",
+  "explanation": "Many natural materials can biodegrade, although their actual end-of-life impact depends on treatment, disposal conditions, and material composition."
+},
+
+{
+  "id": 901,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "Which of the following walling systems, amongst these, has the lowest embodied energy?",
+  "options": {
+    "A": "Burnt brick masonry",
+    "B": "Fly ash block masonry",
+    "C": "Stabilized mud block masonry",
+    "D": "Unstabilized rammed earth wall"
+  },
+  "answer": "D",
+  "explanation": "Unstabilized rammed earth can have low embodied energy because it uses minimally processed local soil."
+},
+{
+  "id": 902,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "How does the embodied energy of fly ash block masonry compare to that of burnt brick masonry?",
+  "options": {
+    "A": "It is twice as high",
+    "B": "It is approximately half",
+    "C": "It is exactly the same",
+    "D": "It is thrice as high"
+  },
+  "answer": "B",
+  "explanation": "The screenshot identifies approximately half as the accepted comparison. Actual embodied energy depends on manufacturing processes and transport distances."
+},
+{
+  "id": 903,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "Which factor can further reduce the embodied energy in a stabilized filler slab roofing system?",
+  "options": {
+    "A": "Increasing the amount of cement",
+    "B": "The void/filler component",
+    "C": "Using thicker steel reinforcement",
+    "D": "Applying a heavy waterproof coating"
+  },
+  "answer": "B",
+  "explanation": "Filler components replace some concrete in a slab, potentially reducing the quantity of material required."
+},
+{
+  "id": 904,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "The METI Handmade School in Bangladesh was designed specifically to respond to which type of climate?",
+  "options": {
+    "A": "Cold and dry",
+    "B": "Hot and arid",
+    "C": "Warm and humid",
+    "D": "Temperate"
+  },
+  "answer": "C",
+  "explanation": "The METI Handmade School uses locally available materials and climate-responsive design suited to its warm, humid setting."
+},
+{
+  "id": 905,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "The Tecla housing project is a notable example of combining renewable materials with which technology?",
+  "options": {
+    "A": "Traditional hand-carving",
+    "B": "3D printing",
+    "C": "Industrial pre-fabrication",
+    "D": "Glass blowing"
+  },
+  "answer": "B",
+  "explanation": "TECLA is an experimental 3D-printed housing project using earth-based materials."
+},
+{
+  "id": 906,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "Which 16th-century palace is an exceptional example of indigenous timber construction withstanding the test of time?",
+  "options": {
+    "A": "Amber Palace",
+    "B": "Jaisalmer Fort",
+    "C": "Padmanabhapuram Palace",
+    "D": "Hawa Mahal"
+  },
+  "answer": "C",
+  "explanation": "Padmanabhapuram Palace is known for its traditional timber craftsmanship and regional architectural features."
+},
+{
+  "id": 907,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "Which specific component is responsible for approximately 90% of the emissions associated with concrete?",
+  "options": {
+    "A": "Coarse aggregates",
+    "B": "Fine sand",
+    "C": "Portland cement binder",
+    "D": "Water"
+  },
+  "answer": "C",
+  "explanation": "Cement is usually the largest contributor to concrete's embodied carbon because of fuel use and chemical emissions during production. The exact share varies."
+},
+{
+  "id": 908,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "What is the name of the chemical reaction that occurs when heating limestone and clay at 1450 degrees Celsius?",
+  "options": {
+    "A": "Hydration",
+    "B": "Calcination",
+    "C": "Carbonation",
+    "D": "Oxidation"
+  },
+  "answer": "B",
+  "explanation": "Calcination decomposes limestone to produce lime and carbon dioxide. Cement clinker formation at high temperatures also involves other chemical reactions."
+},
+{
+  "id": 909,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "Why is sand considered a concern in the building industry despite having low embodied energy per unit?",
+  "options": {
+    "A": "Because it is toxic to handle",
+    "B": "Because the quantum of its consumption is extremely high",
+    "C": "Because it is a renewable resource",
+    "D": "Because it cannot be used in concrete"
+  },
+  "answer": "B",
+  "explanation": "The very large volume of sand consumed in construction creates resource and environmental pressures despite its relatively low energy per unit."
+},
+{
+  "id": 910,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 9,
+  "question": "What is the advantage of alternate building materials made of renewable resources?",
+  "options": {
+    "A": "They are good for the environment",
+    "B": "They are only useful for aesthetics",
+    "C": "They increase the thermal energy consumption of a building",
+    "D": "They are more carbon-intensive than steel"
+  },
+  "answer": "A",
+  "explanation": "Renewable materials can reduce environmental impacts when responsibly sourced, processed, and managed at the end of their useful life."
+},
+
+{
+  "id": 1001,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "Which material, amongst these, shows a lower embodied carbon value?",
+  "options": {
+    "A": "Aluminium",
+    "B": "Reinforced Concrete",
+    "C": "Plain Concrete",
+    "D": "Steel"
+  },
+  "answer": "C",
+  "explanation": "Plain concrete generally has lower embodied carbon than reinforced concrete of comparable function because it does not contain steel reinforcement. Comparisons depend on quantities and specifications."
+},
+{
+  "id": 1002,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "Why does reinforced cement concrete have a significantly higher embodied emission compared to plain concrete?",
+  "options": {
+    "A": "Due to the inclusion of steel reinforcement",
+    "B": "Because it uses more water",
+    "C": "Because it is heavier to transport",
+    "D": "Because it requires more sunlight to cure"
+  },
+  "answer": "A",
+  "explanation": "Steel reinforcement adds embodied emissions because steel production is energy-intensive."
+},
+{
+  "id": 1003,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "What determines the overall environmental impact of a building material beyond its specific carbon dioxide emission factor?",
+  "options": {
+    "A": "The name of the manufacturer",
+    "B": "The total quantity of the material used",
+    "C": "The aesthetic appeal of the material",
+    "D": "The date the material was invented"
+  },
+  "answer": "B",
+  "explanation": "Total emissions depend on both the material's emissions per unit and the total amount used."
+},
+{
+  "id": 1004,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "Which system is primarily responsible for the majority of electricity consumption in Indian buildings to maintain indoor comfort?",
+  "options": {
+    "A": "Lighting system",
+    "B": "Security system",
+    "C": "HVAC system",
+    "D": "Plumbing system"
+  },
+  "answer": "C",
+  "explanation": "Heating, ventilation, and air conditioning can account for a substantial share of building energy use, particularly where cooling demand is high."
+},
+{
+  "id": 1005,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "What is a 'dynamic facade' designed to do throughout the day or year?",
+  "options": {
+    "A": "Remain permanently fixed to provide shade",
+    "B": "Move or adjust to optimize solar radiation, daylight, and glare",
+    "C": "Change color based on the owner's mood",
+    "D": "Increase the weight of the building structure"
+  },
+  "answer": "B",
+  "explanation": "Dynamic facades adjust their configuration in response to sunlight and environmental conditions to improve comfort and energy performance."
+},
+{
+  "id": 1006,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "A dynamic building facade offers which two main advantages?",
+  "options": {
+    "A": "Low cost and traditional appearance",
+    "B": "Aesthetic appeal and sustainability",
+    "C": "High weight and fixed shading",
+    "D": "Increased transparency and reduced security"
+  },
+  "answer": "B",
+  "explanation": "Dynamic facades can combine architectural expression with adaptable shading and improved environmental performance."
+},
+{
+  "id": 1007,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "How does an 'innovative sunshade' contribute to a sustainable building?",
+  "options": {
+    "A": "By making the building look like a museum",
+    "B": "By giving the user complete control over solar radiation and daylighting",
+    "C": "By reflecting all light away from the neighborhood",
+    "D": "By increasing the need for artificial lighting"
+  },
+  "answer": "B",
+  "explanation": "Adjustable shading can help occupants manage sunlight, glare, and daylight while reducing unwanted solar heat gain."
+},
+{
+  "id": 1008,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "What does the skin of the Hyper Filter Skyscraper consist of to fulfill its environmental role?",
+  "options": {
+    "A": "Long pipe filters",
+    "B": "Solar panels only",
+    "C": "Reflective glass",
+    "D": "Concrete blocks"
+  },
+  "answer": "A",
+  "explanation": "The screenshot identifies long pipe filters as the accepted answer for the Hyper Filter Skyscraper concept."
+},
+{
+  "id": 1009,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "Why might the initial embodied energy of a kinetic facade be higher than a static one?",
+  "options": {
+    "A": "Because it is painted with expensive colors",
+    "B": "Due to the complexity of its movable parts and mechanisms",
+    "C": "Because it uses more wood",
+    "D": "Because it requires more land"
+  },
+  "answer": "B",
+  "explanation": "Moving elements, actuators, sensors, and control mechanisms can require additional materials and manufacturing energy."
+},
+{
+  "id": 1010,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 10,
+  "question": "In the long run, why is a kinetic facade considered productive despite its initial energy cost?",
+  "options": {
+    "A": "It makes the building lighter",
+    "B": "It requires more cleaning",
+    "C": "It reduces operational energy throughout the building's lifespan",
+    "D": "It eliminates the need for any windows"
+  },
+  "answer": "C",
+  "explanation": "A well-designed kinetic facade may reduce cooling and lighting demand over its lifetime, although the net benefit depends on operation, maintenance, and climate."
+},
+
+{
+  "id": 1101,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "What is the primary role of a building envelope in the context of decarbonization?",
+  "options": {
+    "A": "To serve as a decorative element for the city",
+    "B": "Barrier between the outdoor and indoor environment",
+    "C": "To provide structural support for the roof only",
+    "D": "To increase the overall weight of the building"
+  },
+  "answer": "B",
+  "explanation": "The building envelope separates the indoor and outdoor environments and influences heat transfer, air leakage, and energy consumption."
+},
+{
+  "id": 1102,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "While the embodied energy of advanced low energy envelopes may be slightly higher, why are they prioritized?",
+  "options": {
+    "A": "Because they make the building look like a sculpture",
+    "B": "Because they are easier to construct than static shells",
+    "C": "Because they significantly reduce operational carbon",
+    "D": "Because they require no maintenance"
+  },
+  "answer": "C",
+  "explanation": "An efficient building envelope can reduce heating and cooling demand, lowering operational energy use and associated emissions."
+},
+{
+  "id": 1103,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "At what stage should energy efficiency be prioritized to create sustainable and cost-efficient buildings?",
+  "options": {
+    "A": "Early design stage",
+    "B": "Post-occupancy stage",
+    "C": "During the demolition phase",
+    "D": "Only when the energy bills increase"
+  },
+  "answer": "A",
+  "explanation": "Energy performance is best considered early, when building orientation, form, materials, and systems can still be optimized."
+},
+{
+  "id": 1104,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "Which type of envelope incorporates elements that actively respond to environmental changes and occupant needs?",
+  "options": {
+    "A": "Fixed envelope",
+    "B": "Static envelope",
+    "C": "Dynamic envelope",
+    "D": "Opaque envelope"
+  },
+  "answer": "C",
+  "explanation": "Dynamic envelopes adapt to changing environmental conditions or user requirements, for example through adjustable shading."
+},
+{
+  "id": 1105,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "Why is daylighting a major focus for architects in energy-intensive buildings like offices?",
+  "options": {
+    "A": "Because electricity used for artificial lighting is humongous",
+    "B": "Because artificial light is always better for productivity",
+    "C": "Because it reduces the structural load of the building",
+    "D": "Because windows are cheaper than bricks"
+  },
+  "answer": "A",
+  "explanation": "Using natural daylight effectively can reduce the electricity required for artificial lighting."
+},
+{
+  "id": 1106,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "Which shading device is described as a combination of horizontal and vertical elements, often found in the Indian system?",
+  "options": {
+    "A": "Horizontal fins",
+    "B": "Vertical louvers",
+    "C": "Jali (honeycomb type)",
+    "D": "Light shelf"
+  },
+  "answer": "C",
+  "explanation": "A jali is a perforated screen used in traditional Indian architecture to filter sunlight and provide shading."
+},
+{
+  "id": 1107,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "What is the purpose of a 'Tubular Daylighting Device'?",
+  "options": {
+    "A": "To provide structural reinforcement",
+    "B": "To direct light into spaces that have no access to windows using reflectors",
+    "C": "To ventilate the bathroom",
+    "D": "To store solar energy for nighttime use"
+  },
+  "answer": "B",
+  "explanation": "Tubular daylighting devices collect daylight and guide it through reflective tubes into interior spaces."
+},
+{
+  "id": 1108,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "How does enhancing natural daylighting contribute to the decarbonization of buildings?",
+  "options": {
+    "A": "By increasing the embodied carbon of the glass",
+    "B": "By reducing the load on the electricity grid for artificial lighting",
+    "C": "By making the building's lobby look more aesthetic",
+    "D": "By increasing the heat gain inside the building"
+  },
+  "answer": "B",
+  "explanation": "Reducing artificial lighting demand can lower electricity consumption and associated operational emissions."
+},
+{
+  "id": 1109,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "Which building footprint orientation is considered 'correct' for optimizing daylight and minimizing glare?",
+  "options": {
+    "A": "A longer axis along the North-South direction to bring in light from the South",
+    "B": "A longer axis along the East-West direction to maximize Western light",
+    "C": "A circular footprint with no specific orientation",
+    "D": "A footprint where the West facade is the longest"
+  },
+  "answer": "A",
+  "explanation": "The screenshot marks the North-South orientation option as correct. In practice, optimal orientation depends on latitude, climate, glazing, and shading design."
+},
+{
+  "id": 1110,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 11,
+  "question": "What is a primary advantage of a 'Pyramid Skylight' over a 'Barrel Vault' skylight for a terrace?",
+  "options": {
+    "A": "It provides less light but is more expensive",
+    "B": "It occupies less space on the terrace",
+    "C": "It is made of concrete instead of glass",
+    "D": "It can only be used in residential buildings"
+  },
+  "answer": "B",
+  "explanation": "The screenshot identifies the smaller terrace footprint as the accepted advantage."
+}
+]
+
+
