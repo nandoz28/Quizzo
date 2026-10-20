@@ -1396,7 +1396,147 @@
   },
   "answer": "B",
   "explanation": "The screenshot identifies the smaller terrace footprint as the accepted advantage."
-}
+},
+  {
+  "id": 1201,
+  "course": "Architectural Approaches to Decarbonization of Buildings",
+  "week": 12,
+  "question": "Which daylight redirecting device can provide natural daylight to the 'darkest of areas' with no direct access to openings?",
+  "options": {
+    "A": "Light shelves",
+    "B": "Chimney with mirrors",
+    "C": "Horizontal overhangs",
+    "D": "Movable awnings"
+    },
+    "answer": "B",
+    "explanation": "A chimney with mirrors can redirect daylight into deep interior spaces that have no direct access to windows or openings."
+  },
+  {
+    "id": 1202,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "Which shading system is most effective for controlling both air movement and daylighting in very hot climates?",
+    "options": {
+      "A": "Horizontal shading device",
+      "B": "Vertical fins",
+      "C": "Egg crate device",
+      "D": "Movable awnings"
+    },
+    "answer": "C",
+    "explanation": "An egg crate shading device combines horizontal and vertical elements to control sunlight while allowing ventilation."
+  },
+  {
+    "id": 1203,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "What chemical is triggered in the brain when sunlight hits the retina, leading to higher mood levels?",
+    "options": {
+      "A": "Melatonin",
+      "B": "Serotonin",
+      "C": "Dopamine",
+      "D": "Adrenaline"
+    },
+    "answer": "B",
+    "explanation": "Exposure to daylight influences serotonin-related pathways, which are associated with mood regulation."
+  },
+  {
+    "id": 1204,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "In the Indra Paryavaran Bhavan, what serves as a 'light well' to provide indoor natural light?",
+    "options": {
+      "A": "The outer perimeter walls",
+      "B": "The inner courtyard",
+      "C": "The basement vents",
+      "D": "The elevator shafts"
+    },
+    "answer": "B",
+    "explanation": "The inner courtyard helps bring natural daylight into the building's interior spaces."
+  },
+  {
+    "id": 1205,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "What is a key feature of the high-efficiency glass used in modern green buildings?",
+    "options": {
+      "A": "High U-value and low visible light transmission",
+      "B": "Low U-value and high visible light transmission",
+      "C": "High heat transmitting index",
+      "D": "Single glazing with tinted film"
+    },
+    "answer": "B",
+    "explanation": "Low U-value glass reduces heat transfer while high visible light transmission allows daylight into the building."
+  },
+  {
+    "id": 1206,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "What unique structural feature of the PEDA building allows indirect light in summer and direct light in winter?",
+    "options": {
+      "A": "Tubular light pipes",
+      "B": "Horizontal and vertical intersecting fins on dome-shaped structures",
+      "C": "Large south-facing floor-to-ceiling windows",
+      "D": "Automated fabric blinds"
+    },
+    "answer": "B",
+    "explanation": "The intersecting fins on dome-shaped structures help control sunlight according to seasonal solar angles."
+  },
+  {
+    "id": 1207,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "What does the acronym PDEC stand for in the context of advanced passive cooling?",
+    "options": {
+      "A": "Primary Direct Energy Cooling",
+      "B": "Passive Down-draft Evaporative Cooling",
+      "C": "Permanent Dual Environmental Control",
+      "D": "Pressure Driven External Circulation"
+    },
+    "answer": "B",
+    "explanation": "PDEC stands for Passive Down-draft Evaporative Cooling, a technique that uses evaporative cooling to produce cooler air that moves downward."
+  },
+  {
+    "id": 1208,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "Which building is noted as one of the first 'net zero' buildings in India because it did not pay for grid electricity?",
+    "options": {
+      "A": "Indra Paryavaran Bhavan",
+      "B": "PEDA Building",
+      "C": "TERI Retreat",
+      "D": "Infosys Pocharam"
+    },
+    "answer": "C",
+    "explanation": "The accepted answer in the quiz is TERI Retreat."
+  },
+  {
+    "id": 1209,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "India pledged at COP26 to achieve net-zero emissions by which year?",
+    "options": {
+      "A": "2030",
+      "B": "2050",
+      "C": "2070",
+      "D": "2100"
+    },
+    "answer": "C",
+    "explanation": "India announced its target of achieving net-zero emissions by 2070 at COP26."
+  },
+  {
+    "id": 1210,
+    "course": "Architectural Approaches to Decarbonization of Buildings",
+    "week": 12,
+    "question": "Which stage of a building material accounts for 80 to 90% of its upfront embodied emissions?",
+    "options": {
+      "A": "Transportation",
+      "B": "Construction",
+      "C": "Manufacturing",
+      "D": "Demolition"
+    },
+    "answer": "C",
+    "explanation": "The accepted answer is manufacturing, which includes energy-intensive processes involved in producing building materials."
+  }
 ]
 
 
