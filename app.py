@@ -1,3 +1,323 @@
+
+import json
+import random
+import copy
+import html
+import streamlit as st
+
+st.set_page_config(
+    page_title="Quizzo - NPTEL Practice",
+    page_icon="📝",
+    layout="centered"
+)
+
+# -------------------------
+# CUSTOM CSS
+# -------------------------
+st.markdown("""
+<style>
+/* Main app spacing */
+.block-container {
+    max-width: 850px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+/* Answer option spacing */
+div[data-testid="stRadio"] div[role="radiogroup"] {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Individual option boxes */
+div[data-testid="stRadio"] div[role="radiogroup"] label {
+    border: 1px solid #D1D5DB;
+    border-radius: 12px;
+    padding: 14px 16px;
+    background-color: var(--secondary-background-color);
+    cursor: pointer;
+    transition: border-color 0.2s, background-color 0.2s;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Hover effect */
+div[data-testid="stRadio"] div[role="radiogroup"] label:hover {
+    border-color: #3984F7;
+}
+
+/* Selected option */
+div[data-testid="stRadio"] div[role="radiogroup"]
+label:has(input:checked) {
+    border: 2px solid #3984F7;
+    background-color: rgba(57, 132, 247, 0.12);
+    font-weight: 600;
+}
+
+/* Buttons */
+.stButton > button {
+    border-radius: 10px;
+    min-height: 42px;
+    font-weight: 500;
+}
+
+/* Quiz question spacing */
+.quiz-heading {
+    padding: 8px 0;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
+# -------------------------
+# LOAD QUESTION BANK
+# -------------------------
+try:
+    with open("questions.json", "r", encoding="utf-8") as file:
+        questions = json.load(file)
+
+    if not isinstance(questions, list):
+        st.error("questions.json must contain a JSON list of questions.")
+        st.stop()
+
+except FileNotFoundError:
+    st.error("questions.json was not found. Place it in your Quizzo project folder.")
+    st.stop()
+
+except json.JSONDecodeError:
+    st.error("questions.json is empty or contains invalid JSON.")
+    st.stop()
+
+
+# -------------------------
+# INITIALIZE APP STATE
+# -------------------------
+if "page" not in st.session_state:
+    st.session_state.page = "courses"
+
+if "course" not in st.session_state:
+    st.session_state.course = None
+
+if "week" not in st.session_state:
+    st.session_state.week = None
+
+if "quiz" not in st.session_state:
+    st.session_state.quiz = []
+
+if "answers" not in st.session_state:
+    st.session_state.answers = {}
+
+if "submitted" not in st.session_state:
+    st.session_state.submitted = False
+
+
+# -------------------------
+# START QUIZ
+# -------------------------
+def start_quiz(course, week=None, full_mock=False):
+    # Select questions for this course and either one week or the full course.
+    if full_mock:
+        pool = [
+            q for q in questions
+            if q.get("course") == course
+        ]
+    else:
+        pool = [
+            q for q in questions
+            if q.get("course") == course and q.get("week") == week
+        ]
+
+    if not pool:
+        st.warning("No questions are available for this selection yet.")
+        return
+
+    # Copy questions so shuffling never changes the original question bank.
+    quiz = copy.deepcopy(pool)
+    random.shuffle(quiz)
+
+    # Shuffle answer texts while keeping the correct answer mapped to its new letter.
+    for q in quiz:
+        original_options = q.get("options", {})
+        old_correct_letter = q.get("answer")
+        correct_text = original_options.get(old_correct_letter)
+
+        option_texts = list(original_options.values())
+        random.shuffle(option_texts)
+
+        letters = ["A", "B", "C", "D"]
+        shuffled_options = {
+            letter: text
+            for letter, text in zip(letters, option_texts)
+        }
+        q["options"] = shuffled_options
+        q["answer"] = next(
+            (letter for letter, text in shuffled_options.items()
+             if text == correct_text),
+            old_correct_letter
+        )
+
+    st.session_state.course = course
+    st.session_state.week = "Full Mock Test" if full_mock else week
+    st.session_state.quiz = quiz
+    st.session_state.answers = {}
+    st.session_state.submitted = False
+    st.session_state.page = "quiz"
+
+
+# -------------------------
+# PAGE 1: COURSES
+# -------------------------
+if st.session_state.page == "courses":
+
+    st.title("📝 Quizzo")
+    st.subheader("NPTEL Quiz Practice")
+
+    st.write(
+        "Welcome to Quizzo! Select a course and test your knowledge."
+    )
+
+    courses = sorted({
+        q["course"] for q in questions
+        if "course" in q
+    })
+
+    if not courses:
+        st.info("Add courses and questions to questions.json first.")
+
+    for course in courses:
+        if st.button(
+            f"📘  {course}",
+            key=f"course_{course}",
+            use_container_width=True
+        ):
+            st.session_state.course = course
+            st.session_state.page = "weeks"
+            st.rerun()
+
+
+# -------------------------
+# PAGE 2: WEEKS
+# -------------------------
+elif st.session_state.page == "weeks":
+
+    st.title(f"📚 {st.session_state.course}")
+    st.subheader("Select a Week")
+    st.write("Choose a week to begin your practice quiz.")
+
+    available_weeks = {
+        q["week"] for q in questions
+        if q.get("course") == st.session_state.course
+    }
+
+    # Full-course mock test
+    total_course_questions = sum(
+        1 for q in questions
+        if q.get("course") == st.session_state.course
+    )
+    if st.button(
+        f"🎯 Full Mock Test — {total_course_questions} Questions",
+        key="full_mock_test",
+        type="primary",
+        use_container_width=True
+    ):
+        start_quiz(st.session_state.course, full_mock=True)
+        st.rerun()
+
+    st.write("")
+
+    # Display all 12 weeks in a three-column layout
+    for start in range(1, 13, 3):
+        columns = st.columns(3)
+
+        for column, week in zip(
+            columns,
+            range(start, min(start + 3, 13))
+        ):
+            with column:
+                if week in available_weeks:
+                    label = f"📝 Week {week}"
+                    disabled = False
+                else:
+                    label = f"🔒 Week {week}"
+                    disabled = True
+
+                if st.button(
+                    label,
+                    key=f"week_{week}",
+                    disabled=disabled,
+                    use_container_width=True
+                ):
+                    start_quiz(st.session_state.course, week)
+                    st.rerun()
+
+    st.write("")
+
+    if st.button("← Back to Courses", use_container_width=True):
+        st.session_state.page = "courses"
+        st.rerun()
+
+
+# -------------------------
+# PAGE 3: QUIZ
+# -------------------------
+elif st.session_state.page == "quiz":
+
+    quiz = st.session_state.quiz
+
+    st.title("📝 Quizzo")
+    if st.session_state.week == "Full Mock Test":
+        st.subheader(f"{st.session_state.course} — Full Mock Test")
+    else:
+        st.subheader(
+            f"{st.session_state.course} — Week {st.session_state.week}"
+        )
+
+    st.caption(f"{len(quiz)} questions in this quiz")
+
+    if not st.session_state.submitted:
+
+        # Overall completion progress
+        answered_count = sum(
+            q["id"] in st.session_state.answers
+            for q in quiz
+        )
+
+        progress = answered_count / len(quiz) if quiz else 0
+        st.progress(progress)
+        st.caption(
+            f"{answered_count} of {len(quiz)} questions answered"
+        )
+
+        for index, q in enumerate(quiz, start=1):
+
+            st.markdown(
+                f'<div class="quiz-heading"><h3>Question {index}</h3></div>',
+                unsafe_allow_html=True
+            )
+
+            st.markdown(f"**{q['question']}**")
+
+            options = list(q["options"].keys())
+            previous = st.session_state.answers.get(q["id"])
+
+            # Boxed, clickable radio options
+            selected = st.radio(
+                "Choose your answer:",
+                options=options,
+                format_func=lambda key, opts=q["options"]: (
+                    f"{key}. {opts[key]}"
+                ),
+                index=(
+                    options.index(previous)
+                    if previous in options
+                    else None
+                ),
+                key=f"question_{q['id']}",
+                label_visibility="collapsed",
+                disabled=False
+            )
+
             if selected is not None:
                 st.session_state.answers[q["id"]] = selected
 
